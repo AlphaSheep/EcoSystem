@@ -1,0 +1,13 @@
+ 
+# Backup files
+*.BAK
+
+# Compiled artifacts
+*.ppu
+*.o
+*.TPU
+*.EXE
+*.PIF
+
+#Program specific files
+ECOSYS/*.TXT
